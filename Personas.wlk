@@ -3,6 +3,10 @@ object vonLukaz {
 	var energia = 150
 	var diversion = 70
 	const edad = 17
+	
+	method edad() = edad
+	
+	method remera() = remera
 
 	method indumentaria() {
 		return "remeraBlanca"
@@ -27,6 +31,10 @@ object binaker {
 	var energia = 140
 	var diversion = 80
 	const edad = 22
+	
+	method edad() = edad
+	
+	method remera() = remera
 
 	method indumentaria() {
 		return "todoDeNegro"
@@ -51,6 +59,10 @@ object gonzen {
 	var energia = 90
 	var diversion = 15
 	const edad = 33
+	
+	method edad() = edad
+	
+	method remera() = remera
 
 	method indumentaria() {
 		return "remeraNegra"
